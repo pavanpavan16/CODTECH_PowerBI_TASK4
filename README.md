@@ -26,7 +26,10 @@ Python is integrated directly in Power BI to:
 - Summarize category-wise performance
 
 ## 📈 Summary
-The report highlights how Python can extend Power BI’s native capabilities to include advanced statistical analysis and custom visuals. This is especially useful for data scientists and analysts who want to apply machine learning or deeper analysis within a BI environment.
+An analytical dashboard exploring sales, profits, and orders across categories, sub-categories, and regions.
+**Why Used: To dive into sales performance and identify profitable areas and categories.**
+**Visuals Used: Pie Chart, Bar Chart, Scatter Plot, Line Chart.**
+**Key Insights: Regional performance, category-wise profit margins, and sales order trends.**
 
 ## 🛠️ Tools & Technologies Used
 - **Power BI** – for report development and data visualization
